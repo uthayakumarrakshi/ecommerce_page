@@ -1,8 +1,8 @@
 import hpLaptop from "../assets/hp_elitebook_mobile.jpg";
 import wireless_mouse from "../assets/wireless_mouse.jpeg";  
-import keybord from "../assets/Keyboard.jpg";
+import keyboard from "../assets/keyboard.jpg";
 import officechair from "../assets/office_chair.webp";
-import desklamp from "../assets/desk lamp.jpg";
+import desklamp from "../assets/Desk Lamp.jpg";
 import monitor from "../assets/monitor.jpeg";
 import notebook from "../assets/notebook.jpeg";
 import penset from "../assets/pen set.jpeg";
@@ -12,7 +12,8 @@ import backpack from "../assets/backpack.jpeg";
 import headphones from "../assets/headphone.jpg";
 import smartphone from "../assets/smartphone.jpeg";
 import tablet from "../assets/tablet.jpeg";
-import deskorginizer from "../assets/desk orgnaizer.jpeg"; 
+import deskorginizer from "../assets/desk orgnaizer.jpeg";
+ 
 
 export const products = [
   {
@@ -40,7 +41,7 @@ export const products = [
     name: 'Keyboard',
     price: 49.99,
     category: 'Electronics',
-    image:keybord,
+    image:keyboard,
     stock: 32,
     rating: 4.7,
     sales: 423
